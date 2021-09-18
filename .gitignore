@@ -1,0 +1,17 @@
+.vscode/
+
+.vs/
+ipch/
+Release/
+Debug/
+temp/
+
+makefiles/vc1[46]/Win32/
+makefiles/vc1[46]/x64/
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.iobj
+*.pdb
+*.aps
+*.vcxproj.user
